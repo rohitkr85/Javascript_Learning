@@ -19,5 +19,25 @@ let booleanLoggedIn = Boolean(loggedIn)
 // "Rohit" => true
 let num = 33
 let stringNumber = String(num)
-console.log(typeof stringNumber)
-console.log(stringNumber)
+//console.log(typeof stringNumber)
+//console.log(stringNumber)
+
+
+//********************************** Operations ********************************
+/*let value = 3
+let negativeValue = -value
+console.log(negativeValue)
+console.log(2**3)
+
+console.log("1" + 2)
+console.log(1 + "2")
+console.log(1 + 2 + "2")
+console.log("1" + 2 + 2)
+console.log(1 + 2 + "2" + 2 + 2)
+*/
+
+console.log(true)
+console.log(+true)
+
+
+
