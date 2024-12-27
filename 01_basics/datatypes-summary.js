@@ -39,5 +39,6 @@ let userOne = {
     upi:"user@ybl"
 }
 let userTwo = userOne
+userTwo.email = "jdgadf@gmail.com"
 console.log(userOne.email)
 console.log(userTwo.email)
